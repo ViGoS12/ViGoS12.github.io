@@ -12,19 +12,19 @@ Repository [RickAndMorty](https://github.com/ViGoS12/RickAndMorty)
 
 ---
 
-## Project-trello
+## Project Trello
 
-Github-pages [Project-trello](https://vigos12.github.io/Project-trello/)
+Github-pages [Project Trello](https://vigos12.github.io/Project-trello/)
 
-Repository [Project-trello](https://github.com/ViGoS12/Project-trello)
+Repository [Project Trello](https://github.com/ViGoS12/Project-trello)
 
 ---
 
-## Memory-game
+## Memory game
 
-Github-pages [Memory-game](https://vigos12.github.io/Memory-game/)
+Github-pages [Memory game](https://vigos12.github.io/Memory-game/)
 
-Repository [Memory-game](https://github.com/ViGoS12/Memory-game/)
+Repository [Memory game](https://github.com/ViGoS12/Memory-game/)
 
 ---
 
